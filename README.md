@@ -24,7 +24,7 @@ Luxure Store adalah platform belanja daring sederhana yang dibangun menggunakan 
 
 ---
 **Kelompok 6 - STT Terpadu Nurul Fikri**
-Imad Ezzat Fanany 0110225137
-Danish Aulia Irawan 0110225009
-Ghozi Muhammad Al Ghani 0110225015
-Maulana Saputra 0110225158
+* Imad Ezzat Fanany 0110225137
+* Danish Aulia Irawan 0110225009
+* Ghozi Muhammad Al Ghani 0110225015
+* Maulana Saputra 0110225158
