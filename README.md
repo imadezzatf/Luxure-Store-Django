@@ -12,10 +12,10 @@ Luxure Store adalah platform belanja daring sederhana yang dibangun menggunakan 
 * **Checkout System:** Ringkasan pesanan otomatis yang dihasilkan setelah pengisian data formulir pelanggan.
 
 ## 🛠️ Teknologi yang Digunakan
-* **Bahasa Pemrograman:** Python 3.x
-* **Framework:** Django 5.x
-* **Database:** SQLite 3
-* **Frontend:** Bootstrap 5 & Custom CSS
+* **Bahasa Pemrograman:** Python 
+* **Framework:** Django 
+* **Database:** SQLite 
+* **Frontend:** Bootstrap  & Custom CSS
 
 ## 📂 Struktur Folder Utama
 * `core/`: Konfigurasi utama projek (settings & urls global).
