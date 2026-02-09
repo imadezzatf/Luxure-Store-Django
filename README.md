@@ -22,6 +22,8 @@ Luxure Store adalah platform belanja daring sederhana yang dibangun menggunakan 
 * `toko/`: Modul aplikasi utama (logic, models, views).
 * `templates/`: Kumpulan file HTML untuk antarmuka pengguna.
 
+📄 Laporan Proyek (PDF): [https://bit.ly/4qs8ijv]
+
 ---
 **Kelompok 6 - STT Terpadu Nurul Fikri**
 * Imad Ezzat Fanany 0110225137
